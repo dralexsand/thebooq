@@ -1,0 +1,22 @@
+{
+  "name": "nuxtproject.prod",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "dralexsand",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "bootstrap": "^4.5.0",
+    "cross-env": "^7.0.2",
+    "nuxt": "^2.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
