@@ -2,25 +2,25 @@
   <div>
     <b-button-group>
       <b-button variant="outline-primary">
-        <b-icon icon="file-text"></b-icon>
+        <i class="fas fa-newspaper"></i>
         <b-link href="/single">
           Article
         </b-link>
       </b-button>
       <b-button variant="outline-primary">
-        <b-icon icon="pencil"></b-icon>
+        <i class="fas fa-pencil-alt"></i>
         <b-link href="/modeedit">
           Edit
         </b-link>
       </b-button>
       <b-button variant="outline-primary">
-        <b-icon icon="chat"></b-icon>
+        <i class="fas fa-comment"></i>
         <b-link href="/modediscuss">
           Discuss
         </b-link>
       </b-button>
       <b-button variant="outline-primary">
-        <b-icon icon="folder"></b-icon>
+        <i class="fas fa-history"></i>
         <b-link href="/modehistory">
           History
         </b-link>

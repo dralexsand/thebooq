@@ -35,30 +35,30 @@
       <b-col cols="8">
         <b-button-group>
           <b-button variant="outline-primary">
-            <b-icon icon="check2-all"></b-icon>
+            <i class="fas fa-list"></i>
             All
           </b-button>
           <b-button variant="outline-primary">
-            <b-icon icon="images"></b-icon>
+            <i class="fas fa-images"></i>
             Images
           </b-button>
           <b-button variant="outline-primary">
-            <b-icon icon="camera-video"></b-icon>
+            <i class="fas fa-video"></i>
             Videos
           </b-button>
           <b-button variant="outline-primary">
-            <b-icon icon="newspaper"></b-icon>
+            <i class="fas fa-newspaper"></i>
             News
           </b-button>
         </b-button-group>
       </b-col>
       <b-col cols="4">
         <b-button variant="outline-primary">
-          <b-icon icon="tools"></b-icon>
+          <i class="fas fa-tools"></i>
           Tools
         </b-button>
         <b-button variant="outline-primary">
-          <b-icon icon="card-list"></b-icon>
+          <i class="fas fa-sliders-h"></i>
           Settings
         </b-button>
       </b-col>

@@ -1,7 +1,7 @@
 {
-  "name": "nuxtproject.prod",
+  "name": "the_booq",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "The Booq",
   "author": "dralexsand",
   "private": true,
   "scripts": {
@@ -18,15 +18,13 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "@nuxtjs/axios": "^5.11.0",
-    "ant-design-vue": "^1.6.3",
     "bootstrap": "^4.5.0",
     "bootstrap-icons": "^1.0.0-alpha5",
     "bootstrap-vue": "^2.15.0",
     "cross-env": "^7.0.2",
     "font-awesome": "^4.7.0",
     "nuxt": "^2.12.2",
-    "nuxt-fontawesome": "^0.4.0",
-    "vue2-editor": "^2.10.2"
+    "nuxt-fontawesome": "^0.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

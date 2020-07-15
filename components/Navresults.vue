@@ -23,7 +23,7 @@
               <b-form-input class="mr-sm-2" id="s" placeholder="Search" size="sm">
               </b-form-input>
               <b-button id="s_button" ref="button" variant="warning">
-                <b-icon icon="search" variant="success"></b-icon>
+                <i class="fas fa-search"></i>
               </b-button>
             </b-input-group>
             <!--<b-button id="s_button" size="sm" class="my-2 my-sm-0" type="submit">Search</b-button>-->
