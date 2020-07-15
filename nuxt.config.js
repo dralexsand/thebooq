@@ -23,7 +23,8 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/node_modules/bootstrap/dist/css/bootstrap.min.css'
+    '@/node_modules/bootstrap/dist/css/bootstrap.min.css',
+    '@/assets/fontawesome/css/all.min.css'
   ],
   /*
   ** Plugins to load before mounting the App
@@ -45,8 +46,7 @@ export default {
   */
   modules: [
     '@nuxtjs/axios',
-    'bootstrap-vue/nuxt',
-
+    'bootstrap-vue/nuxt'
   ],
   
   /*

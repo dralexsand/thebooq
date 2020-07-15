@@ -24,6 +24,10 @@
         <b-icon icon="inbox-fill"></b-icon> Messages
       </b-button>
     </b-button-group>
+  
+    <hr>
+  
+    <i class="fas fa-address-card"></i>
     
   </div>
 </template>

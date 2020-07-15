@@ -9,7 +9,7 @@
       </b-form-input>
       <b-input-group-append>
         <b-button id="s_button" ref="button" variant="primary">
-          <b-icon icon="search"></b-icon>
+          <i class="fas fa-search"></i>
         </b-button>
       </b-input-group-append>
     </b-input-group>
