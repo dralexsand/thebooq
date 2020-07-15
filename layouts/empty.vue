@@ -5,8 +5,13 @@
 </template>
 
 <script>
+  import Nav from "../components/Nav"
+  
   export default {
-    name: "empty"
+    name: "empty",
+    components: {
+      Nav
+    },
   }
 </script>
 

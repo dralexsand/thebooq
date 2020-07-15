@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Nav/>
-    <b-container>
+    <Navresults/>
+    <b-container fluid="lg">
       <nuxt/>
     </b-container>
   </div>
@@ -9,11 +9,12 @@
 
 <script>
   
-  import Nav from '../components/Nav'
+  import Navresults from '../components/Navresults'
   
   export default {
+    name: "results",
     components: {
-      Nav
+      Navresults
     }
   }
 
@@ -23,8 +24,5 @@
   .container {
     min-height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
   }
 </style>

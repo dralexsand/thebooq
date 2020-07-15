@@ -11,6 +11,7 @@
 
 <script>
   export default {
+    layout: "results",
     async asyncData({$axios}){
       const users = await $axios.$get('http://jsonplaceholder.typicode.com/users')
       return {users}

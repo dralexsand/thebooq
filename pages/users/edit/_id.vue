@@ -36,6 +36,7 @@
 
 <script>
   export default {
+    layout: "results",
     validate({params}) {
       //console.log('validate')
       return /^\d+$/.test(params.id)

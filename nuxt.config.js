@@ -18,7 +18,7 @@ export default {
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#fff' },
+  loading: { color: '#16697e' },
   /*
   ** Global CSS
   */
@@ -29,18 +29,26 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+
   ],
   /*
   ** Nuxt.js dev-modules
   */
   buildModules: [
+  
   ],
+  
+  
+  
   /*
   ** Nuxt.js modules
   */
   modules: [
     '@nuxtjs/axios',
+    'bootstrap-vue/nuxt',
+
   ],
+  
   /*
   ** Build configuration
   */

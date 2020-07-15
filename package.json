@@ -1,7 +1,7 @@
 {
   "name": "nuxtproject.prod",
   "version": "1.0.0",
-  "description": "My prime Nuxt.js project",
+  "description": "Nuxt.js project",
   "author": "dralexsand",
   "private": true,
   "scripts": {
@@ -11,10 +11,22 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^20.0.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-brands-svg-icons": "^5.13.1",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
     "@nuxtjs/axios": "^5.11.0",
+    "ant-design-vue": "^1.6.3",
     "bootstrap": "^4.5.0",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "bootstrap-vue": "^2.15.0",
     "cross-env": "^7.0.2",
-    "nuxt": "^2.12.2"
+    "font-awesome": "^4.7.0",
+    "nuxt": "^2.12.2",
+    "nuxt-fontawesome": "^0.4.0",
+    "vue2-editor": "^2.10.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
