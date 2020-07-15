@@ -1,6 +1,6 @@
-# nuxtproject.prod
+# thebooq
 
-> My prime Nuxt.js project
+> TheBooq
 
 ## Build Setup
 
